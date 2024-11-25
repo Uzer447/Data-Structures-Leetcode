@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -124,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
