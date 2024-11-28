@@ -46,6 +46,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -67,6 +68,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
@@ -131,6 +133,7 @@
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -139,10 +142,16 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
