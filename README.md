@@ -8,6 +8,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3451-string-compression-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -49,6 +51,7 @@
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -148,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
