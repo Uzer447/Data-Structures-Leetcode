@@ -24,6 +24,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
@@ -166,6 +169,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3427-special-array-ii) |
 ## Number Theory
 |  |
@@ -218,4 +222,8 @@
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
