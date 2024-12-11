@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
