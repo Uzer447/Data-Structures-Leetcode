@@ -154,6 +154,7 @@
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -208,6 +211,7 @@
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Breadth-First Search
 |  |
 | ------- |
