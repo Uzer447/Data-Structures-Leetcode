@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -76,6 +77,7 @@
 | [0135-candy](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
@@ -126,6 +128,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
