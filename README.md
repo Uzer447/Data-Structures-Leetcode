@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -351,4 +352,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
