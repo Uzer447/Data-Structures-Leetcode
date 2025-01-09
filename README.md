@@ -51,6 +51,7 @@
 | [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -89,6 +90,7 @@
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -306,6 +308,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
