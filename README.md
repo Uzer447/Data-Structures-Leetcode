@@ -26,6 +26,7 @@
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -69,6 +70,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -167,6 +169,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -373,6 +376,7 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
