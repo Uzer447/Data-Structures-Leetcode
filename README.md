@@ -26,6 +26,7 @@
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
@@ -110,6 +111,7 @@
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -279,6 +281,7 @@
 | [0051-n-queens](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -314,6 +317,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
@@ -350,6 +354,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
