@@ -109,6 +109,7 @@
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
+| [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
@@ -410,6 +412,7 @@
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
