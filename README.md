@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
@@ -221,6 +222,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -519,4 +523,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
