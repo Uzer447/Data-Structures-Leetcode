@@ -92,6 +92,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -259,6 +261,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -323,6 +326,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
