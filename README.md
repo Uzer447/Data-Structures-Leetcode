@@ -127,6 +127,7 @@
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -357,6 +358,7 @@
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -535,6 +537,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 ## Binary Indexed Tree
 |  |
 | ------- |
