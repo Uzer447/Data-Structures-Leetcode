@@ -113,6 +113,7 @@
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -231,6 +232,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -263,6 +265,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -446,6 +449,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -496,4 +500,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
