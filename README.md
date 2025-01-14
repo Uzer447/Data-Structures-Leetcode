@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -305,6 +306,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
