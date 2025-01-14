@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
@@ -174,6 +175,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
