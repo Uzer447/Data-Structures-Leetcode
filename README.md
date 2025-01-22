@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -266,6 +267,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -551,12 +553,14 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
@@ -564,6 +568,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Memoization
