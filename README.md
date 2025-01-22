@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
@@ -546,6 +547,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
