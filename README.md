@@ -354,6 +354,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
@@ -555,6 +556,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
