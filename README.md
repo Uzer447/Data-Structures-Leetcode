@@ -362,6 +362,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -386,6 +387,7 @@
 | [0050-powx-n](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
@@ -418,6 +420,7 @@
 | [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
