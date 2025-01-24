@@ -33,6 +33,7 @@
 | [0065-valid-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
@@ -125,6 +126,7 @@
 | [0057-insert-interval](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0135-candy) |
@@ -342,6 +344,7 @@
 | [0051-n-queens](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
@@ -388,6 +391,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -447,6 +451,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
