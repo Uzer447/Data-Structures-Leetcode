@@ -34,6 +34,7 @@
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
+| [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
@@ -342,6 +343,7 @@
 | [0052-n-queens-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0216-combination-sum-iii) |
@@ -529,6 +531,7 @@
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
+| [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
