@@ -428,6 +428,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -736,6 +737,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -762,6 +764,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -787,6 +790,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0450-delete-node-in-a-bst) |
