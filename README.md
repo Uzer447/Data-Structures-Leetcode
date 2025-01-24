@@ -430,6 +430,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -739,6 +740,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -761,6 +763,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -770,6 +773,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
