@@ -34,7 +34,8 @@ public:
         ll sum = 0;
 
         for (int i = 0; i < length; ++i) {
-            sum += static_cast<ll>(i - left[i]) * (right[i] - i) * nums[i] % MOD;
+            sum +=
+                static_cast<ll>(i - left[i]) * (right[i] - i) * nums[i] % MOD;
             sum %= MOD;
         }
 
