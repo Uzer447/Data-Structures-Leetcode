@@ -594,6 +594,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -605,6 +606,7 @@
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
@@ -647,6 +649,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -760,6 +763,7 @@
 | [0210-course-schedule-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Brainteaser
 |  |
 | ------- |
