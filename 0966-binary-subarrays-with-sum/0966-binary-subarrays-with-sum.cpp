@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int helper(vector<int> &nums,int goal) {
+    int helper(vector<int>& nums, int goal) {
         if (goal < 0)
             return 0;
         int n = nums.size();
@@ -18,7 +18,6 @@ public:
     }
     int numSubarraysWithSum(vector<int>& nums, int goal) {
 
-        return helper(nums, goal) -
-               helper(nums, goal - 1);
+        return helper(nums, goal) - helper(nums, goal - 1);
     }
 };
