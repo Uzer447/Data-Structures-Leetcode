@@ -137,6 +137,7 @@
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
+| [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
@@ -378,6 +379,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Recursion
@@ -421,6 +423,7 @@
 | [0050-powx-n](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
@@ -455,6 +458,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
