@@ -185,6 +185,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -450,6 +451,7 @@
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -520,6 +522,7 @@
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -561,6 +564,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -747,6 +751,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Tree
 |  |
