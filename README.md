@@ -128,6 +128,7 @@
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
@@ -294,6 +295,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
