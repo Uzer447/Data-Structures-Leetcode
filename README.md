@@ -237,6 +237,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3427-special-array-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -340,6 +341,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Prefix Sum
 |  |
@@ -818,6 +820,7 @@
 | [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
 | ------- |
