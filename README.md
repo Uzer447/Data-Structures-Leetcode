@@ -478,6 +478,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3561-remove-methods-from-project](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3561-remove-methods-from-project) |
 ## Trie
 |  |
@@ -627,6 +628,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3189-find-champion-ii) |
@@ -805,6 +807,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Brainteaser
 |  |
 | ------- |
