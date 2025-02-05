@@ -33,6 +33,7 @@
 | [0022-generate-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0072-edit-distance) |
@@ -108,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0135-candy) |
@@ -446,6 +448,7 @@
 | [0002-add-two-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
@@ -689,6 +692,7 @@
 | [0022-generate-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0062-unique-paths) |
