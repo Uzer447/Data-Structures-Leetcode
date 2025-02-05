@@ -169,6 +169,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -695,6 +696,7 @@
 | [0198-house-robber](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
