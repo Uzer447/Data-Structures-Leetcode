@@ -63,6 +63,7 @@
 | [0420-strong-password-checker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -212,6 +213,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -533,6 +535,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -564,6 +567,7 @@
 | [0336-palindrome-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
@@ -794,6 +798,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
