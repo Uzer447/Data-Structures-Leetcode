@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
@@ -110,6 +111,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
@@ -135,6 +137,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0039-combination-sum) |
