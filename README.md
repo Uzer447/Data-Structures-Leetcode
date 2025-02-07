@@ -137,6 +137,7 @@
 | [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [0420-strong-password-checker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -220,6 +221,7 @@
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
