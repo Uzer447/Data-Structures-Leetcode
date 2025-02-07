@@ -64,6 +64,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -109,6 +110,7 @@
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0394-decode-string) |
+| [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -686,6 +688,7 @@
 | [0322-coin-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -801,6 +804,7 @@
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -908,6 +912,7 @@
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
+| [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 ## Geometry
 |  |
 | ------- |
