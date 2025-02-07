@@ -55,6 +55,7 @@
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -315,6 +316,7 @@
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -779,6 +781,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
