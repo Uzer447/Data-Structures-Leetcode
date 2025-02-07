@@ -65,6 +65,7 @@
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -539,6 +540,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -689,6 +691,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -806,6 +809,7 @@
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
