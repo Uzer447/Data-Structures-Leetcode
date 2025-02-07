@@ -181,6 +181,7 @@
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -451,6 +452,7 @@
 | [0136-single-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
