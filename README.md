@@ -125,6 +125,7 @@
 | [0055-jump-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
+| [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -462,6 +463,7 @@
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -763,6 +765,7 @@
 | [0322-coin-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
@@ -868,6 +871,7 @@
 | [0139-word-break](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 ## Geometry
 |  |
 | ------- |
