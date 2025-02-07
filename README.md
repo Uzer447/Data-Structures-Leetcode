@@ -203,6 +203,7 @@
 | [0336-palindrome-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -328,6 +329,7 @@
 | [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -575,6 +577,7 @@
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
@@ -837,6 +840,7 @@
 | [0155-min-stack](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1024,4 +1028,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
