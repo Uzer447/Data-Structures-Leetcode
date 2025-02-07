@@ -50,6 +50,7 @@
 | [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
@@ -311,6 +312,7 @@
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -540,6 +542,7 @@
 | [0062-unique-paths](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
