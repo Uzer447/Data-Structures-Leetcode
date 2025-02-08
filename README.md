@@ -888,6 +888,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -903,6 +904,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -973,6 +975,7 @@
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
 ## Line Sweep
 |  |
 | ------- |
