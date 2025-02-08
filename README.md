@@ -74,6 +74,7 @@
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0763-special-binary-string) |
+| [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -125,6 +126,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
+| [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -367,6 +369,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
+| [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
@@ -548,6 +551,7 @@
 | [0273-integer-to-english-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0763-special-binary-string) |
+| [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -636,6 +640,7 @@
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
+| [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
