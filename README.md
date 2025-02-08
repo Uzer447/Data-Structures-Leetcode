@@ -231,6 +231,7 @@
 | [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
@@ -482,6 +483,7 @@
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -610,6 +612,7 @@
 | [0479-largest-palindrome-product](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
