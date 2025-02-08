@@ -75,6 +75,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0763-special-binary-string) |
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
+| [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -253,6 +254,7 @@
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
+| [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0890-lemonade-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -650,6 +652,7 @@
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
@@ -1154,4 +1157,12 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0432-all-oone-data-structure) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
