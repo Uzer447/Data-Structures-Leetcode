@@ -539,6 +539,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Recursion
@@ -648,6 +649,7 @@
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
