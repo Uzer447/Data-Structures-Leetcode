@@ -251,6 +251,7 @@
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -371,6 +372,7 @@
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
+| [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
@@ -758,6 +760,7 @@
 | [0801-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
