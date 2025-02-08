@@ -223,6 +223,7 @@
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
+| [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -600,6 +601,7 @@
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -924,6 +926,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
+| [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
