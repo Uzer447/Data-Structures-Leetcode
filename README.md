@@ -526,6 +526,7 @@
 | [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -767,6 +768,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
@@ -794,6 +796,7 @@
 | [0801-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -890,6 +893,7 @@
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1143,6 +1147,7 @@
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Quickselect
 |  |
