@@ -2,48 +2,39 @@ class Solution {
 public:
     vector<int> maxSumOfThreeSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> total(n - k + 1);
-        int window_sum = 0;
-        for (int i = 0; i < k; ++i) {
-            window_sum += nums[i];
+        vector<int> w;
+        int sum = accumulate(nums.begin(), nums.begin() + k, 0);
+        w.push_back(sum);
+        for (int i = k; i < n; ++i) {
+            sum += nums[i] - nums[i - k];
+            w.push_back(sum);
         }
-        total[0] = window_sum;
-        for (int i = 1; i <= n - k; ++i) {
-            window_sum += nums[i + k - 1] - nums[i - 1];
-            total[i] = window_sum;
+        int m = w.size();
+        vector<int> left(m), right(m);
+        int best = 0;
+        for (int i = 0; i < m; ++i) {
+            if (w[i] > w[best]) best = i;
+            left[i] = best;
         }
-        vector<int> left(n - k + 1);
-        int max_index = 0;
-        for (int i = 0; i <= n - k; ++i) {
-            if (total[i] > total[max_index]) {
-                max_index = i;
-            }
-            left[i] = max_index;
+        best = m - 1;
+        for (int i = m - 1; i >= 0; --i) {
+            if (w[i] >= w[best]) best = i;
+            right[i] = best;
         }
-        vector<int> right(n - k + 1);
-        max_index = n - k;
-        right[n - k] = n - k;
-        for (int i = n - k - 1; i >= 0; --i) {
-            if (total[i] >= total[max_index]) {
-                max_index = i;
-            }
-            right[i] = max_index;
-        }
-        int max_sum = -1;
-        vector<int> result(3, -1);
-        for (int j = k; j <= n - 2 * k; ++j) {
+        int maxsum = 0;
+        vector<int> res(3);
+        for (int j = k; j < m - k; ++j) {
             int i = left[j - k];
             int l = right[j + k];
-            int current_sum = total[i] + total[j] + total[l];
-            if (current_sum > max_sum) {
-                max_sum = current_sum;
-                result = {i, j, l};
-            } else if (current_sum == max_sum) {
-                if (vector<int>{i, j, l} < result) {
-                    result = {i, j, l};
-                }
+            int total = w[i] + w[j] + w[l];
+            if (total > maxsum) {
+                maxsum = total;
+                res = {i, j, l};
+            } else if (total == maxsum) {
+                vector<int> tmp = {i, j, l};
+                if (tmp < res) res = tmp;
             }
         }
-        return result;
+        return res;
     }
 };
