@@ -140,6 +140,7 @@
 | [0420-strong-password-checker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
+| [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -226,6 +227,7 @@
 | [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
+| [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -380,6 +382,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0420-strong-password-checker) |
+| [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -407,6 +410,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
