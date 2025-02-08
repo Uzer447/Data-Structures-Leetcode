@@ -442,6 +442,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -652,6 +653,7 @@
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -899,6 +901,7 @@
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
+| [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -915,6 +918,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
+| [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -986,6 +990,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
+| [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 ## Line Sweep
 |  |
 | ------- |
