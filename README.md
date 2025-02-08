@@ -235,6 +235,7 @@
 | [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
@@ -881,6 +882,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
+| [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -965,6 +967,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 ## Line Sweep
 |  |
 | ------- |
