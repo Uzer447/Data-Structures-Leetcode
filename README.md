@@ -902,6 +902,7 @@
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0664-strange-printer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
