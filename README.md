@@ -64,6 +64,7 @@
 | [0420-strong-password-checker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
+| [0468-validate-ip-address](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
