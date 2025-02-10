@@ -1015,6 +1015,7 @@
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0725-split-linked-list-in-parts](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
