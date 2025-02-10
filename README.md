@@ -249,6 +249,7 @@
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0665-non-decreasing-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
