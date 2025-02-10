@@ -258,6 +258,7 @@
 | [0692-top-k-frequent-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0699-falling-squares](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0735-asteroid-collision) |
@@ -499,6 +500,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -702,6 +704,7 @@
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -922,6 +925,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
@@ -992,11 +996,13 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
