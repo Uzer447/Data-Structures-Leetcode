@@ -272,6 +272,7 @@
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0890-lemonade-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0943-sum-of-subarray-minimums](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
@@ -432,6 +433,7 @@
 | [0692-top-k-frequent-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -477,6 +479,7 @@
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -503,6 +506,7 @@
 | [0567-permutation-in-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -711,6 +715,7 @@
 | [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -967,6 +972,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -984,6 +990,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
