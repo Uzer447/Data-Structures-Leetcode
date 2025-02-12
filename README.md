@@ -322,6 +322,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -411,6 +412,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2448-count-number-of-bad-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -440,6 +442,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -469,6 +472,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
