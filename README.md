@@ -547,6 +547,7 @@
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -698,6 +699,7 @@
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
