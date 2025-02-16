@@ -299,6 +299,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -546,6 +547,7 @@
 | [0679-24-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
