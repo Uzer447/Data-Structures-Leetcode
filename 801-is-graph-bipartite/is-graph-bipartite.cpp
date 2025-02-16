@@ -17,8 +17,9 @@ public:
                     q.push({it,(color=='A'?'B':'A')});
                     vis[it]=(color=='A'?'B':'A');
                 }
-                else if(vis[it]==color)
+                else 
                 {
+                    if(vis[it]==color)
                     return false;
                 }
             }
