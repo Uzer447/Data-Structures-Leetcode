@@ -250,6 +250,7 @@
 | [0503-next-greater-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0517-super-washing-machines) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
@@ -722,6 +723,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
