@@ -1,19 +1,38 @@
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
-        vector<bool> dp(s.size() + 1, false);
-        dp[0] = true;
-
-        for (int i = 1; i <= s.size(); i++) {
-            for (const string& w : wordDict) {
-                int start = i - w.length();
-                if (start >= 0 && dp[start] &&
-                    s.substr(start, w.length()) == w) {
-                    dp[i] = true;
-                    break;
+        int n=s.size();
+        vector<bool> dp(n+1,false);
+        dp[n]=true;
+        for(int i=n-1;i>=0;i--)
+        {
+            for(auto word:wordDict)
+            {
+                int m=word.size();
+                if(i+m<=n)
+                {
+                    bool flag=true;
+                    for(int j=0;j<m;j++)
+                    {
+                        if(s[i+j]!=word[j])
+                        {
+                            flag=false;
+                            break;
+                        }
+                    }
+                    if(flag==true)
+                    {
+                        dp[i]=dp[i+m];
+                    }
                 }
+                else
+                {
+                    dp[i]=false;
+                }
+                if(dp[i]==true)
+                break;
             }
         }
-        return dp[s.size()];
+        return dp[0];
     }
 };
