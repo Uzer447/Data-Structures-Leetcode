@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-total-number-of-colored-cells">2649. Count Total Number of Colored Cells</a></h2><h3>Medium</h3><hr><p>There exists an infinitely large two-dimensional grid of uncolored unit cells. You are given a positive integer <code>n</code>, indicating that you must do the following routine for <code>n</code> minutes:</p>
+<h2><a href="https://leetcode.com/problems/count-total-number-of-colored-cells">Count Total Number of Colored Cells</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There exists an infinitely large two-dimensional grid of uncolored unit cells. You are given a positive integer <code>n</code>, indicating that you must do the following routine for <code>n</code> minutes:</p>
 
 <ul>
 	<li>At the first minute, color <strong>any</strong> arbitrary unit cell blue.</li>
