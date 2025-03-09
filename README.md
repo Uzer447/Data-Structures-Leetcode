@@ -360,6 +360,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -543,6 +544,7 @@
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Backtracking
