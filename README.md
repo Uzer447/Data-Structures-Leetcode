@@ -341,6 +341,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -767,6 +768,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1020,6 +1022,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
