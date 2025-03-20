@@ -299,6 +299,7 @@
 | [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -827,6 +828,7 @@
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -1029,6 +1031,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
