@@ -304,6 +304,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -435,6 +436,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -607,6 +609,7 @@
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -826,6 +829,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
@@ -890,6 +894,7 @@
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1558-course-schedule-iv) |
