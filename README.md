@@ -382,6 +382,7 @@
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -521,6 +522,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
 |  |
 | ------- |
