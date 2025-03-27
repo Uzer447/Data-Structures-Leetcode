@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-index-of-a-valid-split">2888. Minimum Index of a Valid Split</a></h2><h3>Medium</h3><hr><p>An element <code>x</code> of an integer array <code>arr</code> of length <code>m</code> is <strong>dominant</strong> if <strong>more than half</strong> the elements of <code>arr</code> have a value of <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-index-of-a-valid-split">Minimum Index of a Valid Split</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>An element <code>x</code> of an integer array <code>arr</code> of length <code>m</code> is <strong>dominant</strong> if <strong>more than half</strong> the elements of <code>arr</code> have a value of <code>x</code>.</p>
 
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> with one <strong>dominant</strong> element.</p>
 
