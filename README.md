@@ -16,6 +16,7 @@
 | [0567-permutation-in-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -85,6 +86,7 @@
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0763-special-binary-string) |
+| [0768-partition-labels](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0768-partition-labels) |
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0884-k-similar-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0884-k-similar-strings) |
@@ -174,6 +176,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -435,6 +438,7 @@
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0768-partition-labels) |
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
