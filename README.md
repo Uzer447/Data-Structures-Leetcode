@@ -117,6 +117,7 @@
 | [2465-shifting-letters-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3451-string-compression-iii) |
@@ -800,6 +801,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1091,6 +1093,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
