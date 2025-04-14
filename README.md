@@ -321,6 +321,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -671,6 +672,7 @@
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1656-count-good-triplets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2998-count-symmetric-integers) |
