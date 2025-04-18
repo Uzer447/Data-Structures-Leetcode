@@ -44,6 +44,7 @@
 | [0022-generate-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
