@@ -1,22 +1,24 @@
-#include <string>
-using namespace std;
 class Solution {
 public:
     string countAndSay(int n) {
-        string s = "1";
-        for(int i = 1; i < n; i++){
-            string next;
-            for (int j = 0; j < s.size(); ){
-                int count = 0;
-                char c = s[j];
-                while(j < s.size() && s[j] == c){
-                    count++;
-                    j++;
-                }
-                next += to_string(count) + string(1, c);
-            }
-            s = next;
+        if (n==1){
+            return "1";
         }
-        return s;
+        string s=countAndSay(n-1);
+        string res="";
+        int count=1;
+        res+=s[0];
+        for(int i=0;i<s.size()-1;i++){
+            if(s[i]==s[i+1]){
+                count++;
+            }
+            else{
+                res.insert(res.end()-1,1,char(count+48));
+                res+=s[i+1];
+                count=1;
+            }
+        }
+        res.insert(res.end()-1,1,char(count+48));  
+        return res;
     }
 };
