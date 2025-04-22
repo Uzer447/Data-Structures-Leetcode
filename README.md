@@ -817,6 +817,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -874,6 +875,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1122,6 +1124,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1394,6 +1397,7 @@
 | [0062-unique-paths](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Bitmask
 |  |
