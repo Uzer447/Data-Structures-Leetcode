@@ -1,20 +1,13 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-        vector<int> cnt(37);
+        int freq[37] = {0};
+        vector<int> s(n + 1);
         for (int i = 1; i <= n; ++i) {
-            int x = i, s = 0;
-            while (x) {
-                s += x % 10;
-                x /= 10;
-            }
-            ++cnt[s];
+            s[i] = s[i / 10] + i % 10;
+            ++freq[s[i]];
         }
-        int mx = *max_element(cnt.begin(), cnt.end());
-        int res = 0;
-        for (int v : cnt)
-            if (v == mx)
-                ++res;
-        return res;
+        int mx = *max_element(begin(freq), end(freq));
+        return count(begin(freq), end(freq), mx);
     }
 };
