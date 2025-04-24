@@ -3,17 +3,17 @@ public:
     int countCompleteSubarrays(vector<int>& nums) {
         int n = nums.size();
         int D = unordered_set<int>(nums.begin(), nums.end()).size();
-        vector<int> cnt(2001);
-        long long ans = 0;
-        int l = 0, distinct = 0;
+        vector<int> freq(2001);
+        long long res = 0;
+        int l = 0, cur = 0;
         for (int r = 0; r < n; ++r) {
-            if (cnt[nums[r]]++ == 0) ++distinct;
-            while (distinct == D) {
-                ans += n - r;
-                if (--cnt[nums[l]] == 0) --distinct;
+            if (freq[nums[r]]++ == 0) ++cur;
+            while (cur == D) {
+                res += n - r;
+                if (--freq[nums[l]] == 0) --cur;
                 ++l;
             }
         }
-        return (int)ans;
+        return (int)res;
     }
 };
