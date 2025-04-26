@@ -366,6 +366,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -617,6 +618,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
@@ -1158,6 +1160,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
@@ -1178,6 +1181,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
