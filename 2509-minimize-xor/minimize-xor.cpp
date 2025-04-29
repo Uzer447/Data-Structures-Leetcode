@@ -22,7 +22,7 @@ public:
             bitno--;
         }
         bitno=0;
-        while(bitno <=31 && cnt>0)
+        while(bitno<=31 && cnt>0)
         {
             if(!(x&(1<<bitno)))
             {
