@@ -4,19 +4,19 @@ public:
         int cnt=0;
         while(num2>0)
         {
-            if((num2&1)==1)
+            if(num2%2==1)
             {
                 cnt++;
             }
-            num2>>=1;
+            num2/=2;
         }
         int x=0;
         int bitno=31;
         while(bitno>=0 && cnt>0)
         {
-            if(num1&(1<<bitno))
+            if((num1&(1<<bitno))!=0)
             {
-                x|=(1<<bitno);
+                x=x|(1<<bitno);
                 cnt--;
             }
             bitno--;
@@ -24,9 +24,9 @@ public:
         bitno=0;
         while(bitno<=31 && cnt>0)
         {
-            if(!(x&(1<<bitno)))
+            if((x&(1<<bitno))==0)
             {
-                x|=(1<<bitno);
+                x=x|(1<<bitno);
                 cnt--;
             }
             bitno++;
