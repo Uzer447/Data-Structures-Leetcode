@@ -424,6 +424,7 @@
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -550,6 +551,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -950,6 +952,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1052,6 +1055,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3561-remove-methods-from-project) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1061,6 +1065,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
