@@ -130,6 +130,7 @@
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -864,6 +865,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -1172,6 +1174,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -1447,6 +1450,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bitmask
 |  |
 | ------- |
