@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
@@ -223,6 +224,7 @@
 | [0063-unique-paths-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -570,6 +572,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
