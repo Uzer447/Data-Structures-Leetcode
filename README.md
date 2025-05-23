@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0321-create-maximum-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -481,6 +482,7 @@
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0336-palindrome-pairs) |
@@ -847,6 +849,7 @@
 | [0070-climbing-stairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
