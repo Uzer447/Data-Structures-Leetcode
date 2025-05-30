@@ -833,6 +833,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3561-remove-methods-from-project) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1073,6 +1074,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3561-remove-methods-from-project) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1456,6 +1458,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
