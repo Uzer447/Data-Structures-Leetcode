@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i">3683. Find the Lexicographically Largest String From the Box I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>word</code>, and an integer <code>numFriends</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i">Find the Lexicographically Largest String From the Box I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>word</code>, and an integer <code>numFriends</code>.</p>
 
 <p>Alice is organizing a game for her <code>numFriends</code> friends. There are multiple rounds in the game, where in each round:</p>
 
@@ -7,10 +7,7 @@
 	<li>All the split words are put into a box.</li>
 </ul>
 
-<p>Find the <strong>lexicographically largest</strong> string from the box after all the rounds are finished.</p>
-
-<p>A string <code>a</code> is <strong>lexicographically smaller</strong> than a string <code>b</code> if in the first position where <code>a</code> and <code>b</code> differ, string <code>a</code> has a letter that appears earlier in the alphabet than the corresponding letter in <code>b</code>.<br />
-If the first <code>min(a.length, b.length)</code> characters do not differ, then the shorter string is the lexicographically smaller one.</p>
+<p>Find the <span data-keyword="lexicographically-smaller-string">lexicographically largest</span> string from the box after all the rounds are finished.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
