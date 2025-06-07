@@ -1,19 +1,21 @@
 class Solution {
 public:
     string clearStars(string s) {
-        int n = s.size();
+        int n = s.size(), cur = 0;
         vector<int> pos[26];
-        vector<char> del(n, 0);
+        vector<char> del(n);
         for (int i = 0; i < n; ++i) {
-            if (s[i] == '*') {
-                int c = 0;
-                while (c < 26 && pos[c].empty()) ++c;
-                int j = pos[c].back();
-                pos[c].pop_back();
-                del[j] = 1;
-                del[i] = 1;
+            char ch = s[i];
+            if (ch == '*') {
+                while (cur < 26 && pos[cur].empty()) ++cur;
+                int j = pos[cur].back();
+                pos[cur].pop_back();
+                del[j] = del[i] = 1;
+                if (pos[cur].empty()) ++cur;
             } else {
-                pos[s[i] - 'a'].push_back(i);
+                int c = ch - 'a';
+                pos[c].push_back(i);
+                if (c < cur) cur = c;
             }
         }
         string res;
