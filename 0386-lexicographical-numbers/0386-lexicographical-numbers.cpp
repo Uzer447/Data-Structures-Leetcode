@@ -1,22 +1,20 @@
 class Solution {
 public:
     vector<int> lexicalOrder(int n) {
-        vector<int> result;
-        result.reserve(n);
-        int num = 1;
-        while(size(result) < n){
-            result.push_back(num);
-            if(num*10 <= n){
-                num = num*10;
+        vector<int> lexicographicalNumbers;
+        int currentNumber = 1;
+        for (int i = 0; i < n; ++i) {
+            lexicographicalNumbers.push_back(currentNumber);
+            if (currentNumber * 10 <= n) {
+                currentNumber *= 10;
+            } else {
+                while (currentNumber % 10 == 9 || currentNumber >= n) {
+                    currentNumber /= 10;  
+                }
+                currentNumber += 1;  
             }
-            else{
-                while (num % 10 == 9 || num == n)
-                    num/=10;
-                num++;
-            }
-            
-        }
-        return result;
         }
 
+        return lexicographicalNumbers;
+    }
 };
