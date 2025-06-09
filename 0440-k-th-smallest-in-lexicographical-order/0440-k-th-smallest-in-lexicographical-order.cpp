@@ -3,25 +3,28 @@ public:
     int findKthNumber(int n, int k) {
         int curr = 1;
         k--;
+
         while (k > 0) {
-            long long steps = calcSteps(n, curr, curr + 1);
-            if (steps <= k) {
+            int step = countSteps(n, curr, curr + 1);
+            if (step <= k) {
                 curr++;
-                k -= steps;
+                k -= step;
             } else {
                 curr *= 10;
                 k--;
             }
         }
+
         return curr;
     }
+
 private:
-    long long calcSteps(int n, long long curr, long long next) {
-        long long steps = 0;
-        while (curr <= n) {
-            steps += min((long long)n + 1, next) - curr;
-            curr *= 10;
-            next *= 10;
+    int countSteps(int n, long prefix1, long prefix2) {
+        int steps = 0;
+        while (prefix1 <= n) {
+            steps += min((long)(n + 1), prefix2) - prefix1;
+            prefix1 *= 10;
+            prefix2 *= 10;
         }
         return steps;
     }
