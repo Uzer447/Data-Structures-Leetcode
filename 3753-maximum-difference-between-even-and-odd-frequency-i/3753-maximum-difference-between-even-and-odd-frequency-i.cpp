@@ -1,17 +1,27 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    int maxDifference(string s) {
-        int cnt[26] = {};
-        for (char c : s) ++cnt[c - 'a'];
-        int mx = -1, mn = 101;
-        for (int f : cnt) {
-            if (!f) continue;
-            if (f & 1) mx = max(mx, f);
-            else mn = min(mn, f);
+    int helper(string s) {
+        vector<int> freq(26, 0);
+        for (auto c : s)
+            freq[c - 'a']++;
+        vector<int> odd, even;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                if (freq[i] % 2 == 1)
+                    odd.push_back(freq[i]);
+                else
+                    even.push_back(freq[i]);
+            }
         }
-        return mx - mn;
+        int maxans = INT_MIN;
+        for (auto o : odd) {
+            for (auto e : even) {
+                maxans=max(maxans,o - e);
+            }
+        }
+        return maxans;
+    }
+    int maxDifference(string s) {
+        return helper(s);
     }
 };
