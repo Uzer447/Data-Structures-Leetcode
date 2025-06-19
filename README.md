@@ -305,6 +305,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -908,6 +909,7 @@
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0553-optimal-division](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
 | [0640-solve-the-equation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -1229,6 +1231,7 @@
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0664-strange-printer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0664-strange-printer) |
