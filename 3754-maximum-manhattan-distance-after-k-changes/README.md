@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes">3754. Maximum Manhattan Distance After K Changes</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of the characters <code>&#39;N&#39;</code>, <code>&#39;S&#39;</code>, <code>&#39;E&#39;</code>, and <code>&#39;W&#39;</code>, where <code>s[i]</code> indicates movements in an infinite grid:</p>
+<h2><a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes">Maximum Manhattan Distance After K Changes</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> consisting of the characters <code>&#39;N&#39;</code>, <code>&#39;S&#39;</code>, <code>&#39;E&#39;</code>, and <code>&#39;W&#39;</code>, where <code>s[i]</code> indicates movements in an infinite grid:</p>
 
 <ul>
 	<li><code>&#39;N&#39;</code> : Move north by 1 unit.</li>
