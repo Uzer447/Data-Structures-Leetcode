@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii">3601. Find the K-th Character in String Game II</a></h2><h3>Hard</h3><hr><p>Alice and Bob are playing a game. Initially, Alice has a string <code>word = &quot;a&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii">Find the K-th Character in String Game II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Alice and Bob are playing a game. Initially, Alice has a string <code>word = &quot;a&quot;</code>.</p>
 
 <p>You are given a <strong>positive</strong> integer <code>k</code>. You are also given an integer array <code>operations</code>, where <code>operations[i]</code> represents the <strong>type</strong> of the <code>i<sup>th</sup></code> operation.</p>
 
