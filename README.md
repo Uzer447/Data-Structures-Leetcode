@@ -385,6 +385,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -553,6 +554,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1350,6 +1352,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0732-my-calendar-iii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Rolling Hash
 |  |
 | ------- |
