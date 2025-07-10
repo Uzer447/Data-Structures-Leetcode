@@ -232,6 +232,7 @@
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3647-zero-array-transformation-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
@@ -485,6 +486,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Monotonic Stack
@@ -814,6 +816,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
