@@ -1,24 +1,33 @@
 class Solution {
 public:
-    int func(int ind,int prevind,vector<int> &nums,vector<vector<int>> &dp)
+    int func(int ind,int n,int lastele,vector<int> &nums)
     {
-        if(ind==nums.size())
-        {
+        if(ind>=n)
             return 0;
-        }
-        if(dp[ind][prevind+1]!=-1)
-        return dp[ind][prevind+1];
         int take=0;
-        int nottake=func(ind+1,prevind,nums,dp);
-        if(prevind==-1 || nums[ind]>nums[prevind])
+        int nottake=func(ind+1,n,lastele,nums);
+        if(lastele==-1 || nums[ind]>nums[lastele])
         {
-            take=1+func(ind+1,ind,nums,dp);
+            take=1+func(ind+1,n,ind,nums);
         }
-        return dp[ind][prevind+1]=max(take,nottake);
+        return max(take,nottake);
     }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return func(0,-1,nums,dp);
+        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int prevind=-1;prevind<=i-1;prevind++)
+            {
+                int take=0;
+                int nottake=dp[i+1][prevind+1];
+                if(prevind==-1 || nums[i]>nums[prevind])
+                {
+                    take=1+dp[i+1][i+1];
+                }
+                dp[i][prevind+1]=max(take,nottake);
+            }
+        }
+        return dp[0][0];
     }
 };
