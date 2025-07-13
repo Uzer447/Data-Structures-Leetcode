@@ -269,6 +269,7 @@
 | [0139-word-break](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -1235,6 +1236,7 @@
 | [0131-palindrome-partitioning](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0198-house-robber) |
