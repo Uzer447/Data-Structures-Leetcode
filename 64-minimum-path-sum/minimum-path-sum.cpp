@@ -1,23 +1,37 @@
 class Solution {
 public:
-    int func(int i, int j, vector<vector<int>> &mat,int n,int m,vector<vector<int>> &dp)
+    int func(int r,int c,int n,int m,vector<vector<int>> &grid)
     {
-        if(i==n-1 && j==m-1)
-        return mat[i][j];
-        if(dp[i][j]!=-1)
-        return dp[i][j];
-        if(i==n-1)
-            return dp[i][j]=mat[i][j]+((dp[i][j+1]!=-1)?dp[i][j+1]:func(i,j+1,mat,n,m,dp));
-        if(j==m-1)
-            return dp[i][j]=mat[i][j]+((dp[i+1][j]!=-1)?dp[i+1][j]:func(i+1,j,mat,n,m,dp));
-        return dp[i][j]=mat[i][j]+min(func(i+1,j,mat,n,m,dp),func(i,j+1,mat,n,m,dp));
+        if(r<0 || c<0) return 1e9;
+        if(r==0 && c==0)
+            return grid[r][c];
+        int up=func(r-1,c,n,m,grid);
+        int left=func(r,c-1,n,m,grid);
+        return min(up,left)+grid[r][c];
     }
     int minPathSum(vector<vector<int>>& grid) {
-        int ans=0;
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        ans=func(0,0,grid,n,m,dp);
-        return ans;
+        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        for(int i=0;i<=n-1;i++)
+        {
+            for(int j=0;j<=m-1;j++)
+            {
+                if(i==0 && j==0)
+                {
+                    dp[i][j]=grid[i][j];
+                    continue;
+                }
+                int up=grid[i][j];
+                int left=grid[i][j];
+                if(i-1>=0) up+=dp[i-1][j];
+                else up=1e9;
+                if(j-1>=0) left+=dp[i][j-1];
+                else left=1e9;
+                dp[i][j]=min(up,left);
+            }
+        }
+        return dp[n-1][m-1];
     }
+
 };
