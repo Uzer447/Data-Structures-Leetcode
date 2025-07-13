@@ -1,25 +1,54 @@
 class Solution {
 public:
-    bool func(int ind,int target,vector<int> &nums,int n,vector<vector<int>> &dp)
+    bool func(int ind,int n,vector<int> &nums,int target)
     {
+        if(target==0)
+            return true;
         if(ind==n-1)
         {
-            return dp[ind][target]=(nums[ind]==target);
+            if(target==nums[ind])
+            {
+                return true;
+            }
+            return false;
         }
-        if(dp[ind][target]!=-1) return dp[ind][target];
-        bool nottake=func(ind+1,target,nums,n,dp);
-        bool take;
+        bool take=true;
+        bool nottake=func(ind+1,n,nums,target);
         if(nums[ind]<=target)
         {
-            take=func(ind+1,target-nums[ind],nums,n,dp);
+            take=func(ind+1,n,nums,target-nums[ind]);
         }
-        return dp[ind][target]=nottake|take;
+        return take|nottake;
     }
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
         int sum=accumulate(nums.begin(),nums.end(),0);
-        if(sum%2==1) return false;
-        vector<vector<int>> dp(n+1,vector<int>(sum/2+1,-1));
-        return func(0,sum/2,nums,n,dp);
+        int n=nums.size();
+        if(sum%2!=0) return false;
+        sum/=2;
+        vector<vector<bool>> dp(n+1,vector<bool>(sum+1));
+        for(int i=0;i<=n;i++)
+        {
+            dp[i][0]=true;
+        }
+        for(int i=0;i<=sum;i++)
+        {
+            if(i==nums[n-1])dp[n-1][sum]=true;
+            else dp[n-1][sum]=false;
+        }
+        for(int ind=n-2;ind>=0;ind--)
+        {
+            for(int target=1;target<=sum;target++)
+            {
+                bool take=false;
+                bool nottake=dp[ind+1][target];
+                if(target>=nums[ind])
+                {
+                    take=dp[ind+1][target-nums[ind]];
+                }
+                dp[ind][target]=take|nottake;
+            }
+        }
+        return dp[0][sum];
+        return func(0,n,nums,sum/2);
     }
 };
