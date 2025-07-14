@@ -1,32 +1,35 @@
 class Solution {
 public:
-    bool isPallindrome(string s, int i, int j) {
-        while (i < j) {
-            if (s[i] != s[j])
-                return false;
-            i++;
-            j--;
-        }
-        return true;
+    bool isPallindrome(string s)
+    {
+        string t=s;
+        reverse(s.begin(),s.end());
+        return (t==s);
     }
-    void func(int ind, string s, vector<string>& temp,
-              vector<vector<string>>& ans) {
-        if (ind == s.size()) {
-            ans.push_back(temp);
+    void func(int ind,vector<string> &curr,vector<vector<string>> &ans,string s,int n)
+    {   
+        if(ind==n)
+        {
+            ans.push_back(curr);
             return;
         }
-        for (int i = ind; i < s.size(); i++) {
-            if (isPallindrome(s, ind, i)) {
-                temp.push_back(s.substr(ind, i - ind + 1));
-                func(i + 1, s, temp, ans);
-                temp.pop_back();
+        string temp="";
+        for(int i=ind;i<n;i++)
+        {
+            temp=temp+s[i];
+            if(isPallindrome(temp))
+            {
+                curr.push_back(temp);
+                func(i+1,curr,ans,s,n);
+                curr.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
+        vector<string> curr;
         vector<vector<string>> ans;
-        vector<string> temp;
-        func(0, s, temp, ans);
+        int n=s.size();
+        func(0,curr,ans,s,n);
         return ans;
     }
 };
