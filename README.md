@@ -952,6 +952,7 @@
 | [0903-implement-rand10-using-rand7](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0949-cat-and-mouse](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0949-cat-and-mouse) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1405,6 +1406,7 @@
 | [0432-all-oone-data-structure](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
