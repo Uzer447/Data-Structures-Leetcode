@@ -10,12 +10,12 @@ public:
             {
                 if(i==0)
                 {
-                    dp[i][j]=j+1;
+                    dp[i][j]=j;
                     continue;
                 }
                 if(j==0)
                 {
-                    dp[i][j]=i+1;
+                    dp[i][j]=i;
                     continue;
                 }
                 if(word1[i-1]==word2[j-1])
@@ -28,6 +28,6 @@ public:
                 }
             }
         }
-        return dp[n][m]-1;
+        return dp[n][m];
     }
 };
