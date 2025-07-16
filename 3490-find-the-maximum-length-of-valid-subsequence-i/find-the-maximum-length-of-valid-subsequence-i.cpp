@@ -28,6 +28,6 @@ public:
             }
         }
 
-        return std::max({even_count, odd_count, alt_eo, alt_oe});
+        return max({even_count, odd_count, alt_eo, alt_oe});
     }
 };
