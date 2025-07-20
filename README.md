@@ -116,6 +116,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -397,6 +398,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2145-grid-game) |
@@ -573,6 +575,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -916,6 +919,7 @@
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
@@ -1399,6 +1403,7 @@
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
