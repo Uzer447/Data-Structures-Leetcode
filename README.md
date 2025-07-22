@@ -383,6 +383,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1813-maximum-erasure-value](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -571,6 +572,7 @@
 | [1500-count-largest-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -742,6 +744,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
