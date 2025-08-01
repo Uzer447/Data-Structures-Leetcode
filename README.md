@@ -271,6 +271,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0135-candy) |
@@ -1264,6 +1265,7 @@
 | [0087-scramble-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
