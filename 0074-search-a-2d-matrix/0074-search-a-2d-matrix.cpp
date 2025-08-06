@@ -12,7 +12,7 @@ public:
             int col=mid%m;
             if(matrix[row][col]==target)
             return true;
-            if(matrix[row][col]>target)
+            if(matrix[row][col]>=target)
             {
                 high=mid-1;
             }
