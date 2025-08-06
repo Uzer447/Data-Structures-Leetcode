@@ -7,19 +7,16 @@ public:
         int high=m*n-1;
         while(low<=high)
         {
-            int mid=low+(high-low)/2;
-            int row=mid/n;
+            int mid=(low+high)/2;
+            int row=mid/m;
             int col=mid%m;
+            cout<<row<<" "<<col<<endl;
             if(matrix[row][col]==target)
             return true;
-            if(matrix[row][col]>=target)
-            {
-                high=mid-1;
-            }
+            else if(matrix[row][col]<target)
+            low=mid+1;
             else
-            {
-                low=mid+1;
-            }
+            high=mid-1;
         }
         return false;
     }
