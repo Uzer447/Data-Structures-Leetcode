@@ -1,43 +1,32 @@
-using ll = long long;
-const int MOD = 1e9 + 7;
-
 class Solution {
 public:
-    int sumSubarrayMins(vector<int>& nums) {
-        int length = nums.size();
-        vector<int> left(length, -1);
-        vector<int> right(length, length);
+    int sumSubarrayMins(vector<int>& arr) {
+        stack<int> st;
+        int n=arr.size();
+        vector<int> pse(n,-1);
+        vector<int> nse(n,n);
+        for(int i=0;i<n;i++)
+        {
+            while(!st.empty() && arr[st.top()]>=arr[i])
+                st.pop();
+            if(!st.empty())
+                pse[i]=st.top();
+            st.push(i);
+        }
         stack<int> stk;
-
-        for (int i = 0; i < length; ++i) {
-            while (!stk.empty() && nums[stk.top()] >= nums[i]) {
-                stk.pop();
-            }
-            if (!stk.empty()) {
-                left[i] = stk.top();
-            }
+        for(int i=n-1;i>=0;i--)
+        {
+            while(!stk.empty() && arr[stk.top()]>arr[i]) stk.pop();
+            if(!stk.empty()) nse[i]=stk.top();
             stk.push(i);
         }
-
-        stk = stack<int>();
-
-        for (int i = length - 1; i >= 0; --i) {
-            while (!stk.empty() && nums[stk.top()] > nums[i]) {
-                stk.pop();
-            }
-            if (!stk.empty()) {
-                right[i] = stk.top();
-            }
-            stk.push(i);
+        long long sum=0;
+        long long mod=1e9+7;
+        for(int i=0;i<n;i++)
+        {
+            sum+=(1LL*(i-pse[i])*1LL*(nse[i]-i)*1LL*arr[i])%mod;
+            sum%=mod;
         }
-
-        ll sum = 0;
-
-        for (int i = 0; i < length; ++i) {
-            sum += static_cast<ll>(i - left[i]) * (right[i] - i) * nums[i] % MOD;
-            sum %= MOD;
-        }
-
         return sum;
     }
 };
