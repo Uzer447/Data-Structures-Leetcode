@@ -988,6 +988,7 @@
 | [0797-rabbits-in-forest](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
 | [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -1331,6 +1332,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1705,5 +1707,6 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
