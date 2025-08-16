@@ -40,7 +40,7 @@ public:
             if(nums[i]==ele1) cnt1++;
             if(nums[i]==ele2) cnt2++;
         }
-        if(cnt1>nums.size()/3) ans.push_back(ele1);
+        if(cnt1>n/3) ans.push_back(ele1);
         if(cnt2>nums.size()/3) ans.push_back(ele2);
         return ans;
 
