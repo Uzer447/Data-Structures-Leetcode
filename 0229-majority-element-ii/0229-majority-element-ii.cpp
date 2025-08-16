@@ -32,10 +32,10 @@ public:
                 cnt2--;
             }
         }
-        vector<int> ans;
         cnt1=0;
         cnt2=0;
-        for(int i=0;i<nums.size();i++)
+        vector<int> ans;
+        for(int i=0;i<n;i++)
         {
             if(nums[i]==ele1) cnt1++;
             if(nums[i]==ele2) cnt2++;
