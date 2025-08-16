@@ -294,6 +294,7 @@
 | [0216-combination-sum-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
@@ -556,6 +557,7 @@
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0336-palindrome-pairs) |
@@ -678,6 +680,7 @@
 | [0075-sort-colors](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -1385,6 +1388,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0692-top-k-frequent-words) |
