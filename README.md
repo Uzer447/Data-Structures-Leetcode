@@ -836,6 +836,7 @@
 | [0231-power-of-two](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0397-integer-replacement) |
 | [0691-stickers-to-spell-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
@@ -893,6 +894,7 @@
 | [0233-number-of-digit-one](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0763-special-binary-string) |
 | [0781-basic-calculator-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0781-basic-calculator-iv) |
@@ -987,6 +989,7 @@
 | [0282-expression-add-operators](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0400-nth-digit](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0400-nth-digit) |
