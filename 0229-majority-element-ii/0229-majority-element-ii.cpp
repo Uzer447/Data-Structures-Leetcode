@@ -6,7 +6,7 @@ public:
         int ele1;
         int cnt2=0;
         int ele2;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<n;i++)
         {
             if(cnt1==0 && nums[i]!=ele2)
             {
