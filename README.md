@@ -769,6 +769,7 @@
 | [0567-permutation-in-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -1006,6 +1007,7 @@
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
 | [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0894-random-pick-with-blacklist](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -1351,6 +1353,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1728,5 +1731,6 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0903-implement-rand10-using-rand7](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
