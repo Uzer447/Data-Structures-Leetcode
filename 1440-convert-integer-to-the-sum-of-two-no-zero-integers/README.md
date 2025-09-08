@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers">1440. Convert Integer to the Sum of Two No-Zero Integers</a></h2><h3>Easy</h3><hr><p><strong>No-Zero integer</strong> is a positive integer that <strong>does not contain any <code>0</code></strong> in its decimal representation.</p>
+<h2><a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers">Convert Integer to the Sum of Two No-Zero Integers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p><strong>No-Zero integer</strong> is a positive integer that <strong>does not contain any <code>0</code></strong> in its decimal representation.</p>
 
 <p>Given an integer <code>n</code>, return <em>a list of two integers</em> <code>[a, b]</code> <em>where</em>:</p>
 
