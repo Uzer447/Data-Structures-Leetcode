@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-people-to-teach">1834. Minimum Number of People to Teach</a></h2><h3>Medium</h3><hr><p>On a social network consisting of <code>m</code> users and some friendships between users, two users can communicate with each other if they know a common language.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-people-to-teach">Minimum Number of People to Teach</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>On a social network consisting of <code>m</code> users and some friendships between users, two users can communicate with each other if they know a common language.</p>
 
 <p>You are given an integer <code>n</code>, an array <code>languages</code>, and an array <code>friendships</code> where:</p>
 
