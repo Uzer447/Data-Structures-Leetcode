@@ -143,6 +143,7 @@
 | [3447-clear-digits](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -1075,6 +1076,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1637,6 +1639,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -1778,6 +1781,7 @@
 | ------- |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0949-cat-and-mouse) |
+| [3462-vowels-game-in-a-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Rejection Sampling
 |  |
 | ------- |
