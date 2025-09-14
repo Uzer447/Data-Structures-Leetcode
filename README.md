@@ -100,6 +100,7 @@
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
 | [0884-k-similar-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0884-k-similar-strings) |
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -368,6 +369,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1036-rotting-oranges) |
@@ -607,6 +609,7 @@
 | [0952-word-subsets](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1160-letter-tile-possibilities) |
