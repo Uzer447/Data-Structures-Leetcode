@@ -552,6 +552,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -672,6 +673,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
@@ -1156,6 +1158,7 @@
 | [3427-special-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
@@ -1503,6 +1506,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1519,6 +1523,7 @@
 | [2868-continuous-subarrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1542,6 +1547,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
 | ------- |
