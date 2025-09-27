@@ -364,6 +364,7 @@
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
@@ -1069,6 +1070,7 @@
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0873-guess-the-word](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0873-guess-the-word) |
@@ -1632,6 +1634,7 @@
 | [0149-max-points-on-a-line](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0587-erect-the-fence) |
+| [0830-largest-triangle-area](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Indexed Tree
