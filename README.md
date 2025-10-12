@@ -571,6 +571,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -939,6 +940,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -1144,6 +1146,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Binary Search
 |  |
@@ -1513,6 +1516,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
@@ -1834,6 +1838,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
@@ -1841,6 +1846,7 @@
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Quickselect
 |  |
 | ------- |
