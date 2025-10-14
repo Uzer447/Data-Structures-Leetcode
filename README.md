@@ -553,6 +553,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
