@@ -144,6 +144,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -942,6 +943,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1516,6 +1518,7 @@
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1857,6 +1860,7 @@
 | [0823-split-array-with-same-average](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Quickselect
 |  |
