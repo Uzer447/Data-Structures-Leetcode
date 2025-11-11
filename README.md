@@ -84,6 +84,7 @@
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0468-validate-ip-address](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -353,6 +354,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0498-diagonal-traverse) |
@@ -1542,6 +1544,7 @@
 | [0458-poor-pigs](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0514-freedom-trail) |
