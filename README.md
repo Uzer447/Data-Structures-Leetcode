@@ -128,6 +128,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -703,6 +704,7 @@
 | [1813-maximum-erasure-value](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -880,6 +882,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2145-grid-game) |
@@ -1000,6 +1003,7 @@
 | [0895-shortest-path-to-get-all-keys](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
