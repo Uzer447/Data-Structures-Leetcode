@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -1751,6 +1752,7 @@
 | [0002-add-two-numbers](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0141-linked-list-cycle) |
