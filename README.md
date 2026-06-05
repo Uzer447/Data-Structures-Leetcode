@@ -1113,6 +1113,7 @@
 | [0685-redundant-connection-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
 | [0754-cracking-the-safe](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0754-cracking-the-safe) |
+| [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1435,6 +1436,7 @@
 | [0684-redundant-connection](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -2023,4 +2025,12 @@
 | [0826-soup-servings](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0867-new-21-game) |
 | [0903-implement-rand10-using-rand7](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
