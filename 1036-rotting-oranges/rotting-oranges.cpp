@@ -3,49 +3,38 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        queue<pair<pair<int,int>,int>> q;
-        vector<vector<int>> vis=grid;
-        int cntfresh=0;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]==2)
-                {
-                    q.push({{i,j},0});
-                }
-                if(grid[i][j]==1)
-                cntfresh++;
-            }
-        }
-        vector<int> dx={0,-1,0,1};
-        vector<int> dy={-1,0,1,0};
-        int mxtime=0;
-        while(!q.empty())
-        {
-            int sz=q.size();
-            for(int i=0;i<sz;i++)
-            {
-                int row=q.front().first.first;
-                int col=q.front().first.second;
-                int time=q.front().second;
-                mxtime=max(mxtime,time);
-                q.pop();
-                for(int i=0;i<4;i++)
-                {
-                    int nrow=row+dx[i];
-                    int ncol=col+dy[i];
-                    if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1)
-                    {
-                        grid[nrow][ncol]=2;
-                        cntfresh--;
-                        q.push({{nrow,ncol},time+1});
-                    }
+        queue<pair<int,pair<int,int>>> q;
+        int cnt=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2){
+                    q.push({0,{i,j}});
+                } else if (grid[i][j]==1){
+                    cnt++;
                 }
             }
         }
-        if(cntfresh==0)
-        return mxtime;
-        return -1;
+        int time=0;
+        int maxtime=0;
+        while(!q.empty()){
+            int row=q.front().second.first;
+            int col=q.front().second.second;
+            int time=q.front().first;
+            maxtime=max(maxtime,time);
+            q.pop();
+            int dr[]={-1,0,+1,0};
+            int dc[]={0,-1,0,+1};
+            for(int i=0;i<4;i++){
+                int nrow=row+dr[i];
+                int ncol=col+dc[i];
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1){
+                    grid[nrow][ncol]=2;
+                    cnt--;
+                    q.push({time+1,{nrow,ncol}});
+                }
+            }
+        }
+        if(cnt>0) return -1;
+        return maxtime;
     }
 };
