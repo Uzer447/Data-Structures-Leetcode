@@ -333,6 +333,7 @@
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0216-combination-sum-iii) |
@@ -1094,6 +1095,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1335,6 +1337,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -1420,6 +1423,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -2028,6 +2032,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
