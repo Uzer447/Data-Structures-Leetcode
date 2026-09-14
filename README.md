@@ -2044,4 +2044,8 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Uzer447/Data-Structures-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
